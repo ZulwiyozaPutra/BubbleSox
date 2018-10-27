@@ -1,0 +1,6 @@
+framework module Pods_BubbleSoxTests {
+  umbrella header "Pods-BubbleSoxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
